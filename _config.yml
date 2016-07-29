@@ -1,0 +1,14 @@
+layout_spectrum: 0.36639627162367105
+typography_spectrum: 0.19619895634241402
+color:
+  brandStrength: 0.5419135924894363
+  lightness: 0.5224156447220594
+  saturation: 0.29443541332148015
+  rhythmicContrast: 0.7814251154195517
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+name: Canvas Group
